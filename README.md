@@ -57,6 +57,31 @@
 
 ## 📱 Featured Projects
 
+### 🛒 **QuickMart – Grocery Delivery App**
+
+> A full-featured **grocery delivery Android app** with real-time cart management, order flow, and admin product control — built using **modern Android architecture**.
+
+**✨ Key Features**
+- Product listing with categories
+- Cart & checkout flow
+- Real-time price and quantity updates
+- Admin panel for add / edit / update products
+- Firebase-backed data synchronization
+
+**🧩 Tech Stack**
+- Kotlin
+- Jetpack Compose
+- MVVM + Clean Architecture
+- Firebase (Auth / Firestore / Storage)
+- Hilt (Dependency Injection)
+- Room / DataStore
+- Razorpay / Payment integration *(if applicable)*
+
+🔗 **Repository:**  
+👉 https://github.com/AtulGupta8097/QuickMart
+
+---
+
 ### 🔹 **GeoTrace – Geofencing & Visit Tracking App**
 
 > A modern Android application that allows users to create **multiple geofences on a map** and automatically tracks **visits (enter/exit)** — even when the app is in the background or device restarts.
