@@ -35,6 +35,7 @@
 
 ### 💻 Languages
 - **Kotlin**
+- **Java**
 
 ### 📱 Android
 - Jetpack Compose (Material 3)
