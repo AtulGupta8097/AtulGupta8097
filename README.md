@@ -10,7 +10,7 @@
 </p>
 
 <h3 align="center">
-  Android Developer • Jetpack Compose • Clean Architecture
+  Android Developer • Kotlin • Jetpack Compose • Clean Architecture
 </h3>
 
 <p align="center">
@@ -23,11 +23,13 @@
 
 ## 🚀 About Me
 
-- 📱 Android Developer focused on **modern, Compose-first development**
-- 🧱 Strong believer in **MVVM + Clean Architecture**
-- ⚡ Obsessed with **performance, scalability & clean code**
-- 🛠 Actively building **production-grade Android apps**
-- 🎯 Goal: Ship apps that *feel simple but are architecturally solid*
+I’m an Android developer passionate about building **modern, scalable, and maintainable mobile applications** using Kotlin and the latest Android technologies.
+
+- 📱 Focused on **Compose-first Android development**
+- 🧱 Strong foundation in **MVVM and Clean Architecture**
+- ⚡ Interested in **performance optimization, scalability, and real-world features**
+- 🛠 Experienced in building **end-to-end Android applications**
+- 🎯 Goal: Deliver apps that feel simple for users and solid under the hood
 
 ---
 
@@ -39,10 +41,10 @@
 
 ### 📱 Android
 - Jetpack Compose (Material 3)
-- Navigation 3
+- Navigation
 - ViewModel, StateFlow
 - Hilt (Dependency Injection)
-- Room, DataStore
+- Room & DataStore
 - Google Maps & Geofencing
 - Firebase
 
@@ -59,13 +61,13 @@
 
 ### 🛒 **QuickMart – Grocery Delivery App**
 
-> A full-featured **grocery delivery Android app** with real-time cart management, order flow, and admin product control — built using **modern Android architecture**.
+A full-featured **grocery delivery Android application** designed with modern architecture principles, real-time data handling, and a seamless checkout experience.
 
 **✨ Key Features**
-- Product listing with categories
-- Cart & checkout flow
+- Dynamic product catalog with categories
+- Cart and checkout workflow
 - Real-time price and quantity updates
-- Admin panel for add / edit / update products
+- Admin features for product management
 - Firebase-backed data synchronization
 
 **🧩 Tech Stack**
@@ -75,22 +77,23 @@
 - Firebase (Auth / Firestore / Storage)
 - Hilt (Dependency Injection)
 - Room / DataStore
-- Razorpay / Payment integration *(if applicable)*
+- Razorpay payment integration
 
 🔗 **Repository:**  
 👉 https://github.com/AtulGupta8097/QuickMart
 
 ---
 
-### 🔹 **GeoTrace – Geofencing & Visit Tracking App**
+### 📍 **GeoTrace – Geofencing & Visit Tracking App**
 
-> A modern Android application that allows users to create **multiple geofences on a map** and automatically tracks **visits (enter/exit)** — even when the app is in the background or device restarts.
+A location-based Android app that enables users to create **multiple geofences on a map** and automatically track visits using background monitoring.
 
 **✨ Key Features**
-- Long-press to create geofences on map
-- Background & reboot-safe geofence tracking
-- Visit status: *In Progress* / *Completed*
-- Clean Architecture with proper domain separation
+- Long-press map interaction to create geofences
+- Background and reboot-safe tracking
+- Automatic visit detection (enter / exit)
+- Visit lifecycle management
+- Clean domain layer with use cases
 
 **🧩 Tech Stack**
 - Kotlin
@@ -107,31 +110,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api
-?username=AtulGupta8097
-&show_icons=true
-&theme=tokyonight
-&hide_border=true
-&cache_seconds=86400" />
+<img src="https://github-readme-stats.vercel.app/api?username=AtulGupta8097&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/
-?username=AtulGupta8097
-&layout=compact
-&theme=tokyonight
-&hide_border=true
-&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtulGupta8097&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🔥 Currently Learning
 
-- 🎞 Advanced Jetpack Compose animations
-- ⚙️ Performance optimization & profiling
-- 🔄 Background processing & system design
-- 🧭 Scalable app navigation patterns
+- 🎞 Advanced Jetpack Compose animations & transitions  
+- ⚙️ Performance optimization and profiling  
+- 🔄 Background processing & system design  
+- 🧭 Scalable navigation and modular architecture  
 
 ---
 
