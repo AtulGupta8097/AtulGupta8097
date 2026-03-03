@@ -1,116 +1,92 @@
-<h1 align="center">
-  Hi, I'm Atul 👋
-</h1>
+# 👋 Hi, I'm Atul Gupta  
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Android+Developer;Jetpack+Compose+Enthusiast;Clean+Architecture+Advocate"
-    alt="Typing animation"
-  />
-</p>
+**Android Developer | Kotlin | Jetpack Compose | Clean Architecture**
 
-<h3 align="center">
-  Android Developer • Kotlin • Jetpack Compose • Clean Architecture
-</h3>
+I build modern, scalable Android applications using a Compose-first approach and production-ready architecture.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/atul-gupta8070" target="_blank">LinkedIn</a> •
-  <a href="mailto:atulgupta8070@gmail.com">Email</a> •
-  <a href="https://github.com/AtulGupta8097">GitHub</a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/atul-gupta8070) •  
+[Email](mailto:atulgupta8070@gmail.com) •  
+[GitHub](https://github.com/AtulGupta8097)
 
 ---
 
 ## 🚀 About Me
 
-I’m an Android developer passionate about building **modern, scalable, and maintainable mobile applications** using Kotlin and the latest Android technologies.
+I specialize in building Android applications that are:
 
-- 📱 Focused on **Compose-first Android development**
-- 🧱 Strong foundation in **MVVM and Clean Architecture**
-- ⚡ Interested in **performance optimization, scalability, and real-world features**
-- 🛠 Experienced in building **end-to-end Android applications**
-- 🎯 Goal: Deliver apps that feel simple for users and solid under the hood
+- Architecturally clean  
+- Scalable and maintainable  
+- Performance-focused  
+- Designed for real-world use  
+
+My core focus is **Jetpack Compose + Clean Architecture**, with strong attention to state management, modularity, and long-term maintainability.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-- **Kotlin**
-- **Java**
+### Languages
+- Kotlin  
+- Java  
 
-### 📱 Android
+### Android Development
 - Jetpack Compose (Material 3)
-- Navigation
-- ViewModel, StateFlow
+- MVVM + Clean Architecture
+- StateFlow & Coroutines
 - Hilt (Dependency Injection)
 - Room & DataStore
-- Google Maps & Geofencing
-- Firebase
+- Navigation Component
+- Firebase (Auth, Firestore, Storage)
+- Google Maps & Geofencing API
+- Razorpay Integration
 
-### 🧠 Architecture & Patterns
-- Clean Architecture
-- MVVM
-- Repository Pattern
-- Use Cases
-- Single Source of Truth
+### Architecture Principles
+- Single Source of Truth  
+- Repository Pattern  
+- Use Case Driven Domain Layer  
+- Unidirectional Data Flow  
 
 ---
 
 ## 📱 Featured Projects
 
-### 🛒 **QuickMart – Grocery Delivery App**
+### 🛒 QuickMart — Grocery Delivery App  
+Modern, scalable grocery delivery Android application.
 
-A full-featured **grocery delivery Android application** designed with modern architecture principles, real-time data handling, and a seamless checkout experience.
-
-**✨ Key Features**
-- Dynamic product catalog with categories
-- Cart and checkout workflow
-- Real-time price and quantity updates
-- Admin features for product management
-- Firebase-backed data synchronization
-
-**🧩 Tech Stack**
-- Kotlin
-- Jetpack Compose
-- MVVM + Clean Architecture
-- Firebase (Auth / Firestore / Storage)
-- Hilt (Dependency Injection)
-- Room / DataStore
+**Highlights**
+- Dynamic product catalog
+- Cart & checkout workflow
+- Real-time updates with Firebase
+- Admin product management
 - Razorpay payment integration
 
-🔗 **Repository:**  
-👉 https://github.com/AtulGupta8097/QuickMart
+**Tech:** Kotlin, Compose, MVVM, Clean Architecture, Firebase, Hilt  
+
+🔗 Repository:  
+https://github.com/AtulGupta8097/QuickMart
 
 ---
 
-### 📍 **GeoTrace – Geofencing & Visit Tracking App**
+### 📍 GeoTrace — Geofencing & Visit Tracking  
+Location-based Android application with background monitoring.
 
-A location-based Android app that enables users to create **multiple geofences on a map** and automatically track visits using background monitoring.
+**Highlights**
+- Create multiple geofences via map interaction
+- Background & reboot-safe visit tracking
+- Enter/exit detection lifecycle
+- Structured domain layer with use cases
 
-**✨ Key Features**
-- Long-press map interaction to create geofences
-- Background and reboot-safe tracking
-- Automatic visit detection (enter / exit)
-- Visit lifecycle management
-- Clean domain layer with use cases
+**Tech:** Kotlin, Compose, Google Maps, Geofencing API, Clean Architecture  
 
-**🧩 Tech Stack**
-- Kotlin
-- Jetpack Compose
-- Google Maps & Geofencing API
-- Hilt
-- Clean Architecture
-
-🔗 **Repository:**  
-👉 https://github.com/AtulGupta8097/GeoTrace
+🔗 Repository:  
+https://github.com/AtulGupta8097/GeoTrace
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AtulGupta8097&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AtulGupta8097&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -119,19 +95,19 @@ A location-based Android app that enables users to create **multiple geofences o
 
 ---
 
-## 🔥 Currently Learning
+## 🔥 Currently Improving
 
-- 🎞 Advanced Jetpack Compose animations & transitions  
-- ⚙️ Performance optimization and profiling  
-- 🔄 Background processing & system design  
-- 🧭 Scalable navigation and modular architecture  
+- Advanced Compose animations  
+- Performance profiling & optimization  
+- Modular architecture & scalable navigation  
+- Background processing & system design  
 
 ---
 
-## 💬 Let’s Connect
+## 📫 Contact
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/atul-gupta8070
-- 📧 **Email:** atulgupta8070@gmail.com
+- LinkedIn: https://www.linkedin.com/in/atul-gupta8070  
+- Email: atulgupta8070@gmail.com  
 
 ---
 
